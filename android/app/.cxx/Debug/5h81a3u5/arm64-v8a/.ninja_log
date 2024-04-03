@@ -1,0 +1,9 @@
+# ninja log v5
+1	251	733817817	CMakeFiles/example_lib.dir/calc_example/example.cpp.o	80a5635ada95317c
+252	447	733817817	C:/Users/rafam/Documentos/PROJETOS/FLUTTER/btc_miner/build/app/intermediates/cxx/Debug/5h81a3u5/obj/arm64-v8a/libexample_lib.so	69a621302648e39
+1	560	733818223	CMakeFiles/miner_lib.dir/calc_miner/miner.cpp.o	ea4360b1e67e5ad
+560	857	733818223	C:/Users/rafam/Documentos/PROJETOS/FLUTTER/btc_miner/build/app/intermediates/cxx/Debug/5h81a3u5/obj/arm64-v8a/libminer_lib.so	ea068fdd1d071e37
+3	992	733818501	CMakeFiles/miner_lib.dir/calc_miner/miner.cpp.o	ea4360b1e67e5ad
+993	1225	733818501	C:/Users/rafam/Documentos/PROJETOS/FLUTTER/btc_miner/build/app/intermediates/cxx/Debug/5h81a3u5/obj/arm64-v8a/libminer_lib.so	ea068fdd1d071e37
+1	732	733820107	CMakeFiles/miner_lib.dir/miner_cpp/miner.cpp.o	7247cc99860bafbb
+732	865	733820107	C:/Users/rafam/Documentos/PROJETOS/FLUTTER/btc_miner/build/app/intermediates/cxx/Debug/5h81a3u5/obj/arm64-v8a/libminer_lib.so	fe36fafa0281c48

@@ -1,0 +1,3 @@
+C:/Users/rafam/Documentos/PROJETOS/FLUTTER/btc_miner/android/app/.cxx/RelWithDebInfo/4u2f6b6z/x86/CMakeFiles/example_lib.dir
+C:/Users/rafam/Documentos/PROJETOS/FLUTTER/btc_miner/android/app/.cxx/RelWithDebInfo/4u2f6b6z/x86/CMakeFiles/edit_cache.dir
+C:/Users/rafam/Documentos/PROJETOS/FLUTTER/btc_miner/android/app/.cxx/RelWithDebInfo/4u2f6b6z/x86/CMakeFiles/rebuild_cache.dir
